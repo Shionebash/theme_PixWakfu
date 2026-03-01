@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <colors>
-    <color id="defaultLightColor" color="#ffffff" />
-    <color id="mecanicBlueColor" color="#ffffff" />
-    <color id="mecanicDarkBlueColor" color="#ffffff" />
-    <color id="defaultDarkColor" color="#ffffff" />
+    <color id="windowBackgroundColor" color="#d320a6ff"/>
+    <color id="defaultLightColor" color="#ffffffff" /> /*color de ciertos elementos de la antigua interfaz */
+    <color id="mecanicBlueColor" color="#00172cff" /> /* color de ciertos elementos de la antigua interfaz (como los nombres de los heroes)*/
+    <color id="mecanicDarkBlueColor" color="#ff0d0dff" /> /* color de ciertos elementos de la antigua interfaz (como los nombres de los oficios)*/
+    <color id="defaultDarkColor" color="#000000ff" />
     <color id="defaultBlackColor" color="#ffffff" />
-    <color id="darkOddCellColor" color="#1d2026" /> /* no se que es esto */
+    <color id="darkOddCellColor" color="#505050ff" /> /* no se que es esto */
     <color id="scrollEvenCellColor" color="#1d2026" />
     <color id="scrollOddCellColor" color="#1d2026" />
     <color id="scrollSelectedCellColor" color="#1d2026" />
@@ -22,13 +23,13 @@
     <color id="defaultDarkGreyColor" color="#1d2026" />
     <color id="fightReportEvenCellColor" color="#1d2026" />
     <color id="fightReportOddCellColor" color="#24272e" />
-    <color id="blackColor" color="#ffffff" />
+    <color id="blackColor" color="#000000ff" />
     <color id="chalkboardBackgroundColor" color="#FA5FC4" />
-    <color id="tableCellBorderColor" color="#1d2026" />
-    <color id="chalkboardBorderColor" color="#1d2026" />
+    <color id="tableCellBorderColor" color="#73767aff" />
+    <color id="chalkboardBorderColor" color="#73767aff" />
     <color id="protectorColor" color="#62be25" />
     <color id="wakfuColor" color="#47dbd3" />
-    <color id="scrollTitleBackgroundColor" color="#1d202600" />
+    <color id="scrollTitleBackgroundColor" color="rgba(105, 105, 105, 0.41)" />
     <color id="yellowScoreColor" color="#fcd74d" />
     <color id="greyColor" color="#ffffff" />
     <color id="questObjectiveColor" color="#ffe186" />
@@ -117,8 +118,8 @@
     <color id="craftFeeTextEditorBackgroundEvenColor" color="#1d2026" />
     <color id="craftFeeNonDefinedOddPriceColor" color="#ffffff" />
     <color id="craftFeeNonDefinedEvenPriceColor" color="#ffffff" />
-    <color id="mainTextLightColor" color="#ffffff" />
-    <color id="mainTextDarkColor" color="#1d2026" />
+    <color id="mainTextLightColor" color="#ffffffff" /> /* color principal del texto de la nueva interfa */
+    <color id="mainTextDarkColor" color="#000000ff" />
     <color id="mainTextTitleColor" color="0.96,0.85,0.62" />
     <color id="secondTextLightColor" color="1,1,1,0.7" />
     <color id="disabledTextColor" color="1,1,1,0.7" />
