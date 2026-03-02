@@ -3,7 +3,7 @@
     
     <color id="defaultLightColor" color="#ffffffff" /> /*color de ciertos elementos de la antigua interfaz */
     <color id="mecanicBlueColor" color="#00172cff" /> /* color de ciertos elementos de la antigua interfaz (como los nombres de los heroes)*/
-    <color id="mecanicDarkBlueColor" color="#ff0d0dff" /> /* color de ciertos elementos de la antigua interfaz (como los nombres de los oficios)*/
+    <color id="mecanicDarkBlueColor" color="#000000ff" /> /* color de ciertos elementos de la antigua interfaz (como los nombres de los oficios)*/
     <color id="defaultDarkColor" color="#000000ff" />
     <color id="defaultBlackColor" color="#ffffff" />
     <color id="darkOddCellColor" color="#505050ff" /> /* no se que es esto */
@@ -21,8 +21,8 @@
     <color id="dungeonLadderRankingColor" color="#1d2026" />
     <color id="dungeonLadderNoRankColor" color="#1d2026" />
     <color id="defaultDarkGreyColor" color="#1d2026" />
-    <color id="fightReportEvenCellColor" color="#1d2026" />
-    <color id="fightReportOddCellColor" color="#24272e" />
+    <color id="fightReportEvenCellColor" color="#ff4bc9ff" />
+    <color id="fightReportOddCellColor" color="#d62da3ff" />
     <color id="blackColor" color="#000000ff" />
     <color id="chalkboardBackgroundColor" color="#FA5FC4" />
     <color id="tableCellBorderColor" color="#73767aff" />
@@ -36,28 +36,28 @@
     <color id="passportTitleColor" color="#ffffff" />
     <color id="scroolfleshcolor" color="#e83aee" />
     <color id="windowBackgroundColor" color="#ff7ae2ff" />
-    <color id="evenCellColor" color="#1d2026" />
-    <color id="oddCellColor" color="#24272e" />
-    <color id="pressedLightColor" color="#4a4f59" />
+    <color id="evenCellColor" color="#ff4bc9ff" /> /* color de fondo de las filas de las tablas */
+    <color id="oddCellColor" color="#d62da3ff" /> /* color de fondo de las filas de las tablas */
+    <color id="pressedLightColor" color="#584a59ff" />
     <color id="descriptionPopupColor" color="#ffe186" />
     <color id="HPColor" color="#d82b45" />
     <color id="APColor" color="#328dda" />
     <color id="MPColor" color="#55aa55" />
     <color id="WPColor" color="#30cfa6" />
-    <color id="xpColor" color="#125462" />
-    <color id="xpColorCompanion" color="#125462" />
+    <color id="xpColor" color="#ff7ae2ff" /> /* color de la barra de experiencia oficios*/
+    <color id="xpColorCompanion" color="#ff7ae2ff" /> /* color de la barra de experiencia heroes*/
     <color id="xpUnpenalizedColor" color="#22798b" />
     <color id="xpPremiumColor" color="#22798b" />
     <color id="ogrestColor" color="#125462" />
     <color id="loadingWheelColor" color="#ffffff" />
     <color id="disabledHeroSlotColor" color="#ffffff00" />
     <color id="enabledHeroSlotColor" color="#e7d2a680" />
-    <color id="heroGradientFirstColor" color="#24272e" />
-    <color id="heroGradientSecondColor" color="#1d2026" />
-    <color id="companionGradientFirstColor" color="#24272e" />
-    <color id="companionGradientSecondColor" color="#1d2026" />
-    <color id="fleaEvenCellColor" color="#1d2026" />
-    <color id="fleaOddCellColor" color="#24272e" />
+    <color id="heroGradientFirstColor" color="#ff7ae2ff" /> /* color de fondo de los heroes*/
+    <color id="heroGradientSecondColor" color="#ffb4efff" /> /* color de fondo de los heroes*/
+    <color id="companionGradientFirstColor" color="#ff7ae2ff" />
+    <color id="companionGradientSecondColor" color="#ffb4efff" />
+    <color id="fleaEvenCellColor" color="#1d2026" /> 
+    <color id="fleaOddCellColor" color="#ffffffff" />
     <color id="stasisJaugeColor" color="#FC2DEFFF" />
     <color id="dungeonLadderSeparatorColor" color="#4a4f5900" />
     <color id="fightRangeColor" color="#116fb8D9" />
