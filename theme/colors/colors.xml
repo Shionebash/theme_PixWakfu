@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <colors>
-    <color id="windowBackgroundColor" color="#d320a6ff"/>
+    
     <color id="defaultLightColor" color="#ffffffff" /> /*color de ciertos elementos de la antigua interfaz */
     <color id="mecanicBlueColor" color="#00172cff" /> /* color de ciertos elementos de la antigua interfaz (como los nombres de los heroes)*/
     <color id="mecanicDarkBlueColor" color="#ff0d0dff" /> /* color de ciertos elementos de la antigua interfaz (como los nombres de los oficios)*/
@@ -86,10 +86,10 @@
     <color id="rareRarityColor" color="#12FF89" />
     <color id="mythicRarityColor" color="#E27A00" />
     <color id="legendaryRarityColor" color="#D8EA00" />
-    <color id="relicRarityColor" color="#A35EFF" />
-    <color id="souvenirRarityColor" color="#16AAFF" />
-    <color id="epicRarityColor" color="#FF5EBC" />
-    <color id="webShopBackgroundColor" color="#FA5FC4" />
+    <color id="relicRarityColor" color="#4f1797ff" /> /* color de fuente de reliquia*/
+    <color id="souvenirRarityColor" color="#16AAFF" /> /* color de fuente de recuerdo*/
+    <color id="epicRarityColor" color="#f7a2d3ff" /> /* color de fuente de epico*/
+    <color id="webShopBackgroundColor" color="#0000001f" />
     <color id="webShopHighlightColor" color="#261d2366" />
     <color id="webShopMoneyPriceColor" color="#ffffff00" />
     <color id="webShopMoneyPriceSaleColor" color="#e7d2a6" />
