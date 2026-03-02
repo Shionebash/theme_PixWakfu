@@ -57,7 +57,7 @@
     <color id="companionGradientFirstColor" color="#ff7ae2ff" />
     <color id="companionGradientSecondColor" color="#ffb4efff" />
     <color id="fleaEvenCellColor" color="#1d2026" /> 
-    <color id="fleaOddCellColor" color="#ffffffff" />
+    <color id="fleaOddCellColor" color="#24272e" />
     <color id="stasisJaugeColor" color="#FC2DEFFF" />
     <color id="dungeonLadderSeparatorColor" color="#4a4f5900" />
     <color id="fightRangeColor" color="#116fb8D9" />
