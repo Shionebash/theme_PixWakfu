@@ -13,7 +13,7 @@ a theme pixelart for the game wakfu
 ## OPTIONAL (ICON MOUSE)
 1. go to the folder theme_PixWakfu/theme/cursors
 2. go to the folder of the game wakfu/contents/gui_jar
-3. open gui.jar with 7zip and go to themes and paste the folder cursors
+3. open gui.jar with 7zip and go to theme and paste the folder cursors
 4. the game shouldnt be open when you do this
 5. open wakfu and the icons should be changed
 
@@ -29,6 +29,6 @@ a theme pixelart for the game wakfu
 ## OPCIONAL (ICONO DEL MOUSE)
 1. ve a la carpeta theme_PixWakfu/theme/cursors
 2. ve a la carpeta del juego wakfu/contents/gui_jar
-3. abre gui.jar con 7zip y ve a themes y pega la carpeta cursors
+3. abre gui.jar con 7zip y ve a theme y pega la carpeta cursors
 4. el juego no deberia estar abierto cuando haces esto
 5. abre wakfu y los iconos deberian haber cambiado
