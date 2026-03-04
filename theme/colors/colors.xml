@@ -39,7 +39,7 @@
     <color id="evenCellColor" color="#0975C8" /> /* color de fondo de las filas de las tablas */
     <color id="oddCellColor" color="#064B7E" /> /* color de fondo de las filas de las tablas */
     <color id="pressedLightColor" color="#584a59ff" />
-    <color id="descriptionPopupColor" color="#ffe186" />
+    <color id="descriptionPopupColor" color="#ffffffff" />
     <color id="HPColor" color="#d82b45" />
     <color id="APColor" color="#328dda" />
     <color id="MPColor" color="#55aa55" />
@@ -92,14 +92,14 @@
     <color id="webShopBackgroundColor" color="#0000001f" />
     <color id="webShopHighlightColor" color="#261d2366" />
     <color id="webShopMoneyPriceColor" color="#ffffff00" />
-    <color id="webShopMoneyPriceSaleColor" color="#e7d2a6" />
-    <color id="webShopPriceBackgroundColor" color="#ffffff00" />
-    <color id="webShopNotEnoughOgrinePriceColor" color="#ffffff33" />
-    <color id="webShopOgrinePriceColor" color="#2fb1be" />
-    <color id="webShopOgrinePriceSaleColor" color="#2fb1be" />
-    <color id="webShopNotEnoughOgrinePriceBackgroundColor" color="#ffffff00" />
-    <color id="webShopOgrineAmountColor" color="#2fb1be" />
-    <color id="webShopMoneyPriceBackgroundColor" color="#ffffff00" />
+    <color id="webShopMoneyPriceSaleColor" color="#ffffffff" />
+    <color id="webShopPriceBackgroundColor" color="rgba(47, 213, 255, 0.92)" />
+    <color id="webShopNotEnoughOgrinePriceColor" color="#ffffffff" />
+    <color id="webShopOgrinePriceColor" color="#19ecffff" />
+    <color id="webShopOgrinePriceSaleColor" color="#19ecffff" />
+    <color id="webShopNotEnoughOgrinePriceBackgroundColor" color="#3134ff0e" />
+    <color id="webShopOgrineAmountColor" color="#19ecffff" />
+    <color id="webShopMoneyPriceBackgroundColor" color="rgba(79, 234, 255, 0.85)" />
     <color id="scrollTitleBackgroundColorLight" color="#ffffff" />
     <color id="lightGreyTransparentColor" color="#ffffff00" />
     <color id="achievementCategoryCompleteColor" color="#ffffff" />
@@ -164,7 +164,7 @@
     <color id="selectionDarkTextEditorColor" color="#E5E5E5FF" />
     <color id="previewButtonBorderColor" color="#3D999100" />
     <color id="listFilterColor" color="#B7C9D3FF" />
-    <color id="informationMessageTitleColor" color="#EFCC0AFF" />
+    <color id="informationMessageTitleColor" color="#ffffffff" /> /* color de titulo de mensaje de informacion*/
     <color id="spellDeckHighlightColor" color="#FFDD00FF" />
     <color id="craftActionProgressBarColor" color="#60FFEAFF" />
     <color id="craftBackgroundProgressBarColor" color="#6D6B5EFF" />
