@@ -1,0 +1,10 @@
+{
+    "textures": [
+        {
+            "id": "defaultCursor",
+            "path": "theme/cursors/defaultCursor.png",
+            "overridable": true,
+            "since": "10074000"
+        }
+    ]
+}
