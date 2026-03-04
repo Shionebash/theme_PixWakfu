@@ -36,8 +36,8 @@
     <color id="passportTitleColor" color="#ffffff" />
     <color id="scroolfleshcolor" color="#e83aee" />
     <color id="windowBackgroundColor" color="#ff7ae2ff" />
-    <color id="evenCellColor" color="#ff4bc9ff" /> /* color de fondo de las filas de las tablas */
-    <color id="oddCellColor" color="#d62da3ff" /> /* color de fondo de las filas de las tablas */
+    <color id="evenCellColor" color="#0975C8" /> /* color de fondo de las filas de las tablas */
+    <color id="oddCellColor" color="#064B7E" /> /* color de fondo de las filas de las tablas */
     <color id="pressedLightColor" color="#584a59ff" />
     <color id="descriptionPopupColor" color="#ffe186" />
     <color id="HPColor" color="#d82b45" />
