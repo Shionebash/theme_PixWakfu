@@ -3,6 +3,25 @@ a theme pixelart for the game wakfu
 
 ## ENGLISH
 
+This theme is an alpha version, it may have some errors, if you find any error, please report it to me
+I will try to fix it as soon as possible, I will also try to add new features and improve the theme
+Since it is an alpha version, the theme can change a lot from one day to another, that is why inside the folder theme_PixWakfu
+there is a file called actualizador.bat that will help you to update the theme every time I make changes, for that
+you must have git installed and have a github account, and clone the repository in the themes folder of wakfu for
+that actualizador.bat works
+
+## ESPAÑOL
+
+Este tema es una version alpha, puede tener algunos errores, si encuentras algun error, por favor reportamelo
+intentare arreglarlo lo antes posible, tambien intentare agregar nuevas funciones y mejorar el tema
+Al ser una version alpha, el tema puede cambiar mucho de un dia a otro, por eso dentro de la carpeta theme_PixWakfu
+hay un archivo llamado actualizador.bat que te ayudara a actualizar el tema cada vez que haga cambios, para ello 
+debes tener instalado git y tener una cuenta de github, y clonar el repositorio en la carpeta themes de wakfu para
+que funcione el actualizador.bat
+
+
+## ENGLISH
+
 ## how to install
 1. copy the folder theme_PixWakfu to the folder themes of wakfu
 2. open wakfu
