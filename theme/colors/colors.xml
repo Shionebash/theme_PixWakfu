@@ -86,7 +86,7 @@
     <color id="rareRarityColor" color="#12FF89" /> /* color de fuente de raro*/
     <color id="mythicRarityColor" color="#ff5e00ff" /> /* color de fuente de mitico*/
     <color id="legendaryRarityColor" color="#eaff00ff" /> /* color de fuente de legendario*/
-    <color id="relicRarityColor" color="#6f00ffff" /> /* color de fuente de reliquia*/
+    <color id="relicRarityColor" color="#8e38ffff" /> /* color de fuente de reliquia*/
     <color id="souvenirRarityColor" color="#00f7ffff" /> /* color de fuente de recuerdo*/
     <color id="epicRarityColor" color="#ff0095ff" /> /* color de fuente de epico*/
     <color id="webShopBackgroundColor" color="#0000001f" />
